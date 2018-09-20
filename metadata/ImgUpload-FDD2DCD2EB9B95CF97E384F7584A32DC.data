@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A929B30005562524A3DC49B497B91B54</key>
+	<array>
+		<dict>
+			<key>localURL</key>
+			<string>media/15374490859407/15374516850548.jpg</string>
+			<key>remoteURL</key>
+			<string>http://pba6dsu9x.bkt.clouddn.com/15374516850548.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/15374490859407/15374521472025.jpg</string>
+			<key>remoteURL</key>
+			<string>http://pba6dsu9x.bkt.clouddn.com/15374521472025.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/15374490859407/15374521619478.jpg</string>
+			<key>remoteURL</key>
+			<string>http://pba6dsu9x.bkt.clouddn.com/15374521619478.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/15374490859407/15374527525943.jpg</string>
+			<key>remoteURL</key>
+			<string>http://pba6dsu9x.bkt.clouddn.com/15374527525943.jpg</string>
+		</dict>
+		<dict>
+			<key>localURL</key>
+			<string>media/15374490859407/15374594190528.jpg</string>
+			<key>remoteURL</key>
+			<string>http://pba6dsu9x.bkt.clouddn.com/15374594190528.jpg</string>
+		</dict>
+	</array>
+	<key>selectedItem</key>
+	<string>A929B30005562524A3DC49B497B91B54</string>
+</dict>
+</plist>
